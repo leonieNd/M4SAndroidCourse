@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "604254548199",
+    "firebase_url": "https://fir-ndoye.firebaseio.com",
+    "project_id": "fir-ndoye",
+    "storage_bucket": "fir-ndoye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604254548199:android:cb00f19aec400040",
+        "android_client_info": {
+          "package_name": "com.example.lonie.firebasenndoyeleonie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604254548199-tbhrjiskur8nftrn70i71djvv04ci7ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-NK2JK93KkK8fYkowkCcbyLs6owzwHWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
